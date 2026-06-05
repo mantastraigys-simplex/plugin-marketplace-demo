@@ -9,6 +9,11 @@
       "name": "my-test-plugin",
       "source": "./plugins/my-test-plugin",
       "description": "A test plugin providing two greeting skills (test-skill and second-skill)"
+    },
+    {
+      "name": "development-plugin",
+      "source": "./plugins/development-plugin",
+      "description": "Development workflow plugin providing pr and clean-typescript skills"
     }
   ]
 }

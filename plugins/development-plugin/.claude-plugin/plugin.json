@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "development-plugin",
+  "version": "0.1.0",
+  "description": "Development workflow plugin providing pr and clean-typescript skills",
+  "repository": "https://github.com/mantastraigys-simplex/plugin-marketplace-demo"
+}

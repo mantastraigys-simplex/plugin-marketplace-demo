@@ -2,5 +2,6 @@
   "name": "my-test-plugin",
   "version": "0.1.0",
   "description": "A test plugin providing two greeting skills",
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "repository": "https://github.com/mantastraigys-simplex/plugin-marketplace-demo"
 }

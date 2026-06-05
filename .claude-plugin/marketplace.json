@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugin-marketplace-demo",
+  "owner": {
+    "name": "mantas.traigys"
+  },
+  "plugins": [
+    {
+      "name": "my-test-plugin",
+      "source": "./plugins/my-test-plugin",
+      "description": "A test plugin providing two greeting skills (test-skill and second-skill)"
+    }
+  ]
+}
